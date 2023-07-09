@@ -1,0 +1,28 @@
+.container-fluid {
+  text-align: center;
+  padding: 20px;
+}
+
+.text-primary {
+  color: #ffffff;
+}
+
+.well {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.quote-text {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.author-text {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.btn {
+  margin-right: 10px;
+}
