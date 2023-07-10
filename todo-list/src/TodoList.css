@@ -1,0 +1,39 @@
+.todo-list {
+  width: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.todo-item.completed {
+  background-color: #f2f2f2;
+}
+
+.actions button {
+  margin-left: 5px;
+}
+
+.actions button:last-child {
+  margin-right: 0;
+}
